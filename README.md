@@ -35,4 +35,8 @@ Licensing
 
 Whitepaper Links
 ----------------
-Add your IPFS CIDs in docs/WHITEPAPER_V2_LINKS.md.
+## Whitepaper
+- IPFS (v1): ipfs://bafkreiasj6vjovpodlhx6bffybgs3jajeilwblc3qfxqkmhilose35casy
+- IPFS (v2): ipfs://bafkreih3qupop6pbyjs3sexjrnktnvgyjisnbt6rwpottpzxj7di3ircce
+- PDF: see docs/BitBorn_Whitepaper_v2.pdf (or Releases assets)
+
